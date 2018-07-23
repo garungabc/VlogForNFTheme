@@ -9,6 +9,6 @@ return [
     |
      */
 
-    'host' => env('VLOG_HOST', 'http://logs.vicoders.com'),
+    'host' => env('VLOG_HOST', 'logs.vicoders.com'),
     'port' => env('VLOG_PORT', '9200'),
 ];
