@@ -1,0 +1,19 @@
+{
+	"name": "vicoders/logs",
+    "description": "Log all website with Log server",
+    "keywords": ["elastic search", "log"],
+    "homepage": "https://vicoders.com",
+    "autoload": {
+        "psr-4": {
+            "Vicoders/Logs\\": "src/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^2.5",
+		"guzzlehttp/guzzle": "^6.3",
+		"league/fractal": "^0.17.0",
+		"monolog/monolog": "^1.23",
+		"ruflin/elastica": "^6.0"
+    },
+    "require-dev": {}
+}

@@ -1,0 +1,8 @@
+[2018-07-19 09:35:12] application.WARNING: Foo [] []
+[2018-07-19 09:35:43] application.WARNING: daugaga 123 [] []
+[2018-07-19 09:36:41] application.WARNING: daugaga 123 [] []
+[2018-07-19 09:37:02] application.INFO: daugaga 123 [] []
+[2018-07-19 09:40:57] application.INFO: daugaga 123 [] []
+[2018-07-19 09:41:02] application.INFO: daugaga 123 [] []
+[2018-07-19 09:41:54] application.INFO: daugaga 123 [] []
+[2018-07-19 09:41:59] application.INFO: daugaga 123 [] []
